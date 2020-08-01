@@ -113,3 +113,7 @@ body {
 }
 
 
+.btn:focus {
+     background-color: #2796ff;
+}
+
